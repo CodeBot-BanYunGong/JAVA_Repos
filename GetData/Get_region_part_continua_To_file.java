@@ -10,7 +10,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.util.Collection;
 
-public class Get_region_part_continua_To_fie extends StarMacro {
+public class Get_region_part_continua_To_file extends StarMacro {
 
     public void execute() {
         execute0();
