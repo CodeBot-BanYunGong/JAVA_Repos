@@ -1,7 +1,7 @@
 # JAVA_Repos
 JAVA_Class introduction _ https://www.javatpoint.com/java-constructor
 
-## CellSet Create & Update
+## Create & Update CellSet
 ### CellSet_Create.java
 > use this code to create **CellSet** and **ThresholdPart**
 > ThresholdPart whould choose which part is used. The part type can be *geometry part* or *region*. So need to define whhich type is used for this threshold part.
