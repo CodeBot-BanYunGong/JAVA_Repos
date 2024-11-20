@@ -20,3 +20,8 @@ JAVA_Class introduction _ https://www.javatpoint.com/java-constructor
 >  * ColorBar: blue-red
 > 
 > User should modify name of plot and scene when use them. That would make them clear.
+
+## GetData
+### Get_region_part_continua_To_file.java
+> Defind this script to get data in CCM
+> Get material properties data for each continua
